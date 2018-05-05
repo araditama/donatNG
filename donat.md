@@ -13,6 +13,7 @@
 ### Topping:
 - Pasir
 - Keju
+- OLI
 
 ### Warna:
 - Merah
